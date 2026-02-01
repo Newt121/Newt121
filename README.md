@@ -33,12 +33,11 @@ Specializuji se na tvorbu moderních webových aplikací s důrazem na čistý k
 
 ---
 
-### 📊 Moje GitHub Aktivita
 
 ### 📊 Moje GitHub statistiky
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Newt121&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true](https://gh-readme-profile.vercel.app/api?username=Newt121&theme=transparent&border_width=0&border_radius=0)" alt="GitHub Stats" />
+  <img src="https://gh-readme-profile.vercel.app/api?username=Newt121&theme=transparent&border_width=0&border_radius=0" alt="GitHub Stats" />
 </p>
 
 ---
